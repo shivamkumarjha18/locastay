@@ -1,8 +1,40 @@
-# React + Vite
+This is a frontend-only of locastay based on airbnb clone  using React.js and Tailwind CSS. It includes core pages like Home, Search, Listing Details, Login/Signup, and Host Property — all designed to mimic the UI and user flow of the original Airbnb platform.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🚀 Features
+Clean and responsive UI with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Context API for state management
+
+Dummy User Authentication (login/signup)
+
+Host a property with:
+
+Title
+
+Images (3 slots)
+
+Price
+
+Navigate through:
+
+Home Page
+
+Search Page
+
+Listing Details Page
+
+Login & Signup Pages
+
+Host Property Form
+
+🧰 Tech Stack
+React.js
+
+Tailwind CSS
+
+Context API
+
+Axios
+
+React Router DOM
